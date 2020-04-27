@@ -1,2 +1,2 @@
 # Interface-web-Workshop
-Interface de connexion web pour consulté les dossiers des patients à distance
+Interface de connexion web pour consulter les dossiers des patients à distance
